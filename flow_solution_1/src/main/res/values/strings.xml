@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Flow</string>
+    <string name="label_title">Title</string>
+    <string name="label_author">Author</string>
+    <string name="label_time">Time</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="button_refreshing">Refreshing&#8230;</string>
+</resources>

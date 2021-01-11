@@ -1,0 +1,5 @@
+include ':flow_solution_2'
+include ':flow_solution_1'
+include ':flow_exercise_1'
+include ':flow_exercise_2'
+rootProject.name = "Kotlin Flow"
